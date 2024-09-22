@@ -23,3 +23,9 @@ This is a simple Rock Paper Scissors game implemented using Python and Tkinter f
 To run the game, execute the following command:
 ```sh
 python main.py
+
+## Demo Video
+
+[Watch the demo video](https://github.com/nagasurimani/Rock-Paper-Scissors-Game/raw/main/game-demo.mp4)
+
+
