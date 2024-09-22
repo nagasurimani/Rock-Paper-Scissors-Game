@@ -11,7 +11,7 @@ This is a simple Rock Paper Scissors game implemented using Python and Tkinter f
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/rock-paper-scissors.git
+    https://github.com/nagasurimani/Rock-Paper-Scissors-Game.git
     ```a
 2. Navigate to the project directory:
     ```sh
